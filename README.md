@@ -21,5 +21,5 @@ This is a simple and clean **Udemy-clone-website** created using **HTML** and **
 This project serves as my personal online space to present my projects, share my background, and build my digital presence.
 
 ## How to view
-   you can access my portfolio  website by visiting [Link  https://sarathkumar9100-stack.github.io/my-first-website-/] feel free to explore the content and get in touch!
-      Thank you for visiting my portfolio website!
+   you can access Udemy-clone-website visiting [Link  https://sarathkumar9100-stack.github.io/Udemy-clone-website/] feel free to explore the content and get in touch!
+      Thank you for visiting  Udemy-clone-website!
